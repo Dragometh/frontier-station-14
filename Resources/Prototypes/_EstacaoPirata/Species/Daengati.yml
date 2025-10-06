@@ -1,7 +1,7 @@
 - type: species
   id: Daengati
   name: species-name-daengati
-  roundStart: true
+  roundStart: false
   prototype: MobDaengati #Alterar
   dollPrototype: MobDaengatiDummy #Alterar
   markingLimits: MobDaengatiMarkingLimits
