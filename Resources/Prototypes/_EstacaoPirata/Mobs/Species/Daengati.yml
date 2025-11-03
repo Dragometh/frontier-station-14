@@ -17,8 +17,8 @@
         Heat: 3
   - type: Body
     prototype: Human
-  - type: TypingIndicator
-    proto: oni
+  #- type: TypingIndicator
+  #  proto: oni
   - type: Temperature
     heatDamageThreshold: 535
     coldDamageThreshold: 270
